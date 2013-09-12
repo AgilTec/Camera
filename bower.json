@@ -1,0 +1,23 @@
+{
+  "name": "camera.slideshow",
+  "version": "1.3.5",
+  "homepage": "https://github.com/nupykl/Camera",
+  "authors": [
+    "Manuel Masia @Pixedelic"
+  ],
+  "description": "Camera slideshow originally by pixedelic",
+  "main": "scripts/camera.js",
+  "keywords": [
+    "slideshow",
+    "slider",
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
